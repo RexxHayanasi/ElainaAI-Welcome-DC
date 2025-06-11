@@ -1,0 +1,10 @@
+{
+  "TOKEN": "",
+  "WelcomeChannel": "",
+  "WelcomeMessage": "Hey [[user]], Welcome to [[server]] you are member number: [[members]]",
+  "AutoRole": true,
+  "AutoRoleName": "",
+  "SetStatus":"",
+  "DM": true,
+  "DMMessage": ""
+}
